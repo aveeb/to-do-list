@@ -1,0 +1,1 @@
+#a simple program that lets you add items to a list and look at the current list. as of 3/14/2023, I've added an option to add items and see the updated list. will add a way to delete any items as well.
